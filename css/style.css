@@ -621,6 +621,37 @@ i:before {
 
 /* End Creative Feature Area css
 ============================================================================================ */
+/* Creative Feature Area 2 css
+============================================================================================ */
+.creative_feature_area-2 {
+  background: #fff;
+}
+
+.d_feature_text-2 .main_title {
+  padding-bottom: 20px;
+}
+
+.d_feature_text-2 p {
+  font-size: 14px;
+  color: #51545f;
+  font-family: "Poppins", sans-serif;
+  line-height: 26px;
+  padding-bottom: 12px;
+}
+
+.d_feature_text-2 p + p {
+  padding-bottom: 0px;
+}
+
+.d_feature_text-2 .read_btn {
+  margin-top: 34px;
+}
+
+.d_feature_img-2 {
+  padding-left: 0px;
+}
+/* End Creative Feature Area 2 css
+============================================================================================ */
 /* Industries Area css
 ============================================================================================ */
 .industries_area {
